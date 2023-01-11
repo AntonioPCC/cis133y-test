@@ -1,0 +1,2 @@
+1. Create reop on GitHub.
+2. Clone repo to local machine.
